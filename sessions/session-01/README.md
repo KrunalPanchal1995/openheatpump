@@ -1,6 +1,6 @@
 # Session 1: A heat pump moves heat, a heater makes it
 
-[Session 1 — हिन्दी](README.hi.md) · [Session 1 — മലയാളം](README.ml.md)
+[Session 1 — हिन्दी](README.hi.md) · [Session 1 — മലയാളം](README.ml.md) · [Session 1 — தமிழ்](README.ta.md)
 
 *Level 1 (conceptual interactive model) · about 60 minutes · openheatpump*
 
